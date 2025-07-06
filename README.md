@@ -14,4 +14,4 @@ One-Page Website project:
 This page is a basic HTML website.
 
 Portfolio website project:
-Awebsite that showes my other projects beside this one.
+A website that showes my other projects beside this one.
