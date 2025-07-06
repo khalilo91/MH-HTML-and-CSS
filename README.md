@@ -2,10 +2,13 @@
 
 ## Projects Completed
 
-- Bootstrap 4 project (nova screens)
-- One-Page Website
-- Portfolio Website
+- [Bootstrap 4 project (nova screens)](https://github.com/khalilo91/MH-HTML-and-CSS/tree/main/bootstrap4_project)
+- [One-Page Website](https://github.com/khalilo91/MH-HTML-and-CSS/tree/main/one-page-website)
 
-## About Me
 
-I'm a beginner web developer passionate about learning HTML, CSS, and Bootstrap.
+
+Bootstrap 4 project:
+This page is about nova screens Cinema. a basic website using Bootstrap.
+
+One-Page Website project:
+This page is a basic HTML website.
