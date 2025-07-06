@@ -1,6 +1,4 @@
-# My Portfolio Website
-
-Welcome to my portfolio! This site showcases the projects I've completed in the HTML and CSS course.
+ This showcases the projects I've completed in the HTML and CSS course.
 
 ## Projects Completed
 
